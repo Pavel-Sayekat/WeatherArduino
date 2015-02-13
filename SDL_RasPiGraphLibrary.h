@@ -2,6 +2,7 @@
   SDL_RasPiGraphLibrary.h - Class Library for RasPiConnect Graph Format.
   Created by SwitchDoc Labs August 5, 2014.
   Released into the public domain.
+
 */
 #ifndef  SDL_RasPiGraphLibrary_h
 #define SDL_RasPiGraphLibrary_h
