@@ -30,7 +30,7 @@
 #include "MemoryFree.h"
 #include "avr/pgmspace.h"
 
-#include "elapsedMillis.h"
+#include "elapsedmillis.h"
 
 #include "SDL_RasPiGraphLibrary.h"
 
